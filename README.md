@@ -21,7 +21,7 @@
 
 <br>
 
-### Languages Known:
+### Languages Known: <img align="center" alt="Coding" width="35" height="35" src="https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e471e1t4mq8dgbcfj9edukzov14z2tnc8092ndelgno&rid=giphy.gif&ct=g">
 
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
