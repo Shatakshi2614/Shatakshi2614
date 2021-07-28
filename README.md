@@ -12,7 +12,7 @@
 - 🥅 Passion for **innovation and learning new Technology**
 - 💬 Ask me about Anything **either I recall or I learn**
 
-### 🕵 Take a look at my repositories and let's get in touch!
+### 🕵 Take a look at my repositories and let's get in touch! <img align="center" alt="Coding" width="60" height="45" src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif">
 
 <a href="https://www.linkedin.com/in/shatakshi-verma-b7044398/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shatakshi Verma" /></a>
 <a href="mailto:shatakshik91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shatakshi2614" /></a></p>
