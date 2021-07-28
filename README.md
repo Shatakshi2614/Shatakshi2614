@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> I'm Shatakshi Verma</h1>
+<h1 align="center">Hi <img src="https://media3.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=ecf05e47gevsjg1quhdzo20yk2qaxl8j5h6tgvtjso4xp4sc&rid=giphy.gif&ct=g" width="50px" height="50"> I'm Shatakshi Verma</h1>
 <img align="right" alt="Coding" width="450" height="500" src="https://media0.giphy.com/media/3ohhwJbytwUSJyvvHi/giphy.gif?cid=ecf05e47a9f7gh79ngbqvfdv9kd3o7gy2zaw3gbnndv1k9ru&rid=giphy.gif&ct=g">
 
 ![](https://komarev.com/ghpvc/?username=Shatakshi2614&color=yellow)
-<h3> Web Developer | Sales and Marketing Enthusiast | Database Management |SQL|</h3>
+<h3> <img align="left" alt="Coding" width="45" height="45" src="https://media3.giphy.com/media/YFFGUPTPTRqIhwepA4/giphy.gif?cid=ecf05e47axda29lm4tp0hsiofk032f5n05y0qu1n4w0wib7x&rid=giphy.gif&ct=g"> Web Developer | Sales and Marketing Enthusiast | Database Management |SQL| </h3>
 
 
 
@@ -44,7 +44,8 @@
 <img align="left" alt="CodeBlocks" width="30px" src="https://icon2.cleanpng.com/20180514/we/kisspng-code-blocks-integrated-development-environment-c-5af9eedfed4669.0618493515263290559719.jpg" />
 
 <br><br>
-### 📈 My Github Stats:
+### My Github Stats: <img align="center" alt="Coding" width="40" height="25" src="https://media4.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e47tzrpqckz7x24kizg6kdieg9idmlhw0mcplwfxj1a&rid=giphy.gif&ct=g%22%3E">
+
 <hr/>
 
 <a href="https://github.com/Shatakshi2614">
