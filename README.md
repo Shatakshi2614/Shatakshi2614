@@ -1,3 +1,5 @@
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0/1600774582457?e=1628121600&v=beta&t=HN2xs8iRv7SQr4RlzzSs1KrRhnC0CpUfD1K40jqxYWc)](https://khushboogoel01.github.io)
+[![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://khushboogoel01.github.io)
 <h1 align="center">Hi 👋, I'm Shatakshi Verma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
