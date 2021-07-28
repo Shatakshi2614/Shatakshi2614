@@ -39,7 +39,7 @@
 
 </div>
 
-### Tools Familiar With:
+### Tools Familiar With: <img align="center" alt="Coding" width="45" height="45" src= "https://media2.giphy.com/media/IwSG1QKOwDjQk/giphy.gif?cid=ecf05e475yc9ntgt5i84ug8flvwwg7xok1lvah9twv1cnzok&rid=giphy.gif&ct=g">
 <img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/nolan/64/github.png" />
 <img align="left" alt="CodeBlocks" width="30px" src="https://icon2.cleanpng.com/20180514/we/kisspng-code-blocks-integrated-development-environment-c-5af9eedfed4669.0618493515263290559719.jpg" />
