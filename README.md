@@ -1,27 +1,58 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQF-YdClTtUhMg/profile-displaybackgroundimage-shrink_350_1400/0/1600774582457?e=1628121600&v=beta&t=HN2xs8iRv7SQr4RlzzSs1KrRhnC0CpUfD1K40jqxYWc)](https://khushboogoel01.github.io)
-[![MasterHead](https://media-exp3.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1631750400&v=beta&t=0LohX99JFWfYQy8ZEmLiw3vcqpkR56mig0tvJ7gfNOM)](https://khushboogoel01.github.io)
-<h1 align="center">Hi 👋, I'm Shatakshi Verma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> I'm Shatakshi Verma</h1>
+<img align="right" alt="Coding" width="500" height="600" src="https://media0.giphy.com/media/3ohhwJbytwUSJyvvHi/giphy.gif?cid=ecf05e47a9f7gh79ngbqvfdv9kd3o7gy2zaw3gbnndv1k9ru&rid=giphy.gif&ct=g">
+<h3> Web Developer | Sales and Marketing Enthusiast | Database Management | SQL |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shatakshi2614&label=Profile%20views&color=0e75b6&style=flat" alt="Shatakshi2614" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Shatakshi2614](https://github.com/Shatakshi2614)
+- 👨‍🏭 I’m currently pursuing **B.Tech ECSc at Kalinga Institue of Industrial Technology** 
+- 🏫 I’m currently learning **Web Development, CSS , HTML,C++ and JavaScript** 
+- 🥅 Passion for **innovation and learning new Technology**
+- 💬 Ask me about Anything **either I recall or I learn**
 
-- 💬 Ask me about **Web Development**
+### 🕵 Take a look at my repositories and let's get in touch!
 
-- 📫 How to reach me **shatakshik91@gmail.com**
+<a href="https://www.linkedin.com/in/shatakshi-verma-b7044398/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shatakshi Verma" /></a>
+<a href="mailto:shatakshik91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shatakshi2614" /></a></p>
+[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/Shatakshi2614)
 
-- ⚡ Fun fact **I think I am passionate and hardworking**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shatakshi verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shatakshi verma" height="30" width="40" /></a>
-</p>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Languages Known:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shatakshi2614&show_icons=true&locale=en&layout=compact" alt="shatakshi2614" /></p>
+
+<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="MY SQL" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="C" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />
+<br>
+
+<div>
+
+<br>
+
+</div>
+### Tools Familiar With:
+<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="GitHub" width="30px" src="https://img.icons8.com/nolan/64/github.png" />
+<img align="left" alt="CodeBlocks" width="30px" src="https://icon2.cleanpng.com/20180514/we/kisspng-code-blocks-integrated-development-environment-c-5af9eedfed4669.0618493515263290559719.jpg" />
+
+<br><br>
+### 📈 My Github Stats:
+<hr/>
+
+<a href="https://github.com/Shatakshi2614">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shatakshi2614&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+</a>
+<br><br>
+<a href="https://github.com/Shatakshi2614/github-readme-stats">
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shatakshi2614&layout=compact&theme=blue-yellow" />
+</a>
+
+<br><br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi2614)](https://git.io/streak-stats)
+
