@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/debdutgoswami/debdutgoswami/master/assets/gifs/Hi.gif" width="30px"> I'm Shatakshi Verma</h1>
 <img align="right" alt="Coding" width="450" height="550" src="https://media0.giphy.com/media/3ohhwJbytwUSJyvvHi/giphy.gif?cid=ecf05e47a9f7gh79ngbqvfdv9kd3o7gy2zaw3gbnndv1k9ru&rid=giphy.gif&ct=g">
+
+![](https://komarev.com/ghpvc/?username=Shatakshi2614&color=yellow)
 <h3> Web Developer | Sales and Marketing Enthusiast | Database Management |SQL|</h3>
 
 
