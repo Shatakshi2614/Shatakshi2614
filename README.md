@@ -1,3 +1,7 @@
+<br><h1><img align="right" alt="Coding" width="950" height="400" align="center" src="https://media3.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif?cid=ecf05e4793bndw5erwwlbzxof67f3179kivp2yrk35hrl6oj&rid=giphy.gif&ct=g"></br></h1>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+
 <h1 align="center">Hi <img src="https://media3.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif?cid=ecf05e47gevsjg1quhdzo20yk2qaxl8j5h6tgvtjso4xp4sc&rid=giphy.gif&ct=g" width="50px" height="50"> I'm Shatakshi Verma</h1>
 <img align="right" alt="Coding" width="300" height="450" src="https://media0.giphy.com/media/3ohhwJbytwUSJyvvHi/giphy.gif?cid=ecf05e47a9f7gh79ngbqvfdv9kd3o7gy2zaw3gbnndv1k9ru&rid=giphy.gif&ct=g">
 
