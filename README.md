@@ -19,8 +19,9 @@
 ### 🕵 Take a look at my repositories and let's get in touch!  <img align="center" alt="Coding" width="80" height="45" src="https://media0.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif?cid=ecf05e47o7mn7ra05vih2lgeciciz1klrmq2omf10jo82757&rid=giphy.gif&ct=g">
 
 <a href="https://www.linkedin.com/in/shatakshi-verma-b7044398/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Shatakshi Verma" /></a>
-<a href="mailto:shatakshik91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shatakshi2614" /></a></p>
-[<img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'>](https://github.com/Shatakshi2614)
+<br></br>
+<br><a href="mailto:shatakshik91@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Shatakshi2614" /></a></p></br>
+ <a href="https://github.com/Shatakshi2614"><img src='https://img.icons8.com/nolan/64/github.png' alt='github' height='40'></a>
 
 
 <br>
