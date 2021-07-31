@@ -57,12 +57,12 @@
 <hr/>
 
 <a href="https://github.com/Shatakshi2614">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shatakshi2614&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shatakshi261&show_icons=true&include_all_commits=true&theme=midnight-purple&count_private=true">
 </a>
 <br><br>
 <a href="https://github.com/Shatakshi2614/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shatakshi2614&layout=compact&theme=blue-yellow" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Shatakshi261&layout=compact&theme=blue-yellow" />
 </a>
 
 <br><br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi2614&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shatakshi261&theme=highcontrast)](https://git.io/streak-stats)
